@@ -1,0 +1,8 @@
+Convert GUI from QT Creator to Python
+in cmd:
+in: C:\ProgramData\Anaconda3\Library\bin
+
+pyuic5.bat -x D:\GitRepos\GuiEventTestThread\GuiBuilder\GuiEventTestThread\mainwindow.ui -o  D:\GitRepos\GuiEventTestThread\Python\mainwindow_convert.txt
+pyuic5.bat -x D:\GitRepos\GuiEventTestThread\GuiBuilder\GuiEventTestThread\threadgui.ui -o  D:\GitRepos\GuiEventTestThread\Python\threadgui_convert.txt
+
+
